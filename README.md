@@ -8,6 +8,17 @@
 
 ## 产品分析 系列
 
++ [微信读书 体验报告](https://github.com/CHENSISISI/NOTE/issues/12)
++ [vlive app（明星直播）分析报告](https://github.com/CHENSISISI/NOTE/issues/8)
++ [微博超话分析](https://github.com/CHENSISISI/NOTE/issues/9)
++ [公益类 & “薅羊毛养成类” 应用调研分析报告](https://github.com/CHENSISISI/NOTE/issues/10)
++ [“网赚“游戏应用调研分析报告](https://github.com/CHENSISISI/NOTE/issues/39)
++ [同程 体验日记](https://github.com/CHENSISISI/NOTE/issues/16)
++ [去哪儿 体验日记](https://github.com/CHENSISISI/NOTE/issues/15)
++ [途牛 体验日记](https://github.com/CHENSISISI/NOTE/issues/14)
++ [剪映 体验日记](https://github.com/CHENSISISI/NOTE/issues/13)
++ [美团VS滴滴登录注册 体验报告](https://github.com/CHENSISISI/NOTE/issues/6)
+
 ## 读书笔记 系列
 
 + [《从零开始做运营》](https://github.com/CHENSISISI/NOTE/issues/20)
