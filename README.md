@@ -6,6 +6,32 @@
 
 ## 每日一答 系列
 
++ [25. 老鼠毒药问题](https://github.com/CHENSISISI/NOTE/issues/55)
++ [24. 电商交易流程，怎么划分](https://github.com/CHENSISISI/NOTE/issues/54)
++ [23. 如果要做商业化的一个产品，需要考虑哪些？](https://github.com/CHENSISISI/NOTE/issues/53)
++ [22. 如何管理需求 & 如何判断需求的优先级](https://github.com/CHENSISISI/NOTE/issues/52)
++ [21. 朋友圈的基本数据结构设计是怎么样的？](https://github.com/CHENSISISI/NOTE/issues/46)
++ [20. 50个人中，有相同生日的概率是多少？](https://github.com/CHENSISISI/NOTE/issues/41)
++ [19. 网易云音乐为什么没有做音乐评分？](https://github.com/CHENSISISI/NOTE/issues/40)
++ [18. 负责一款短视频产品的运营工作（欢聚时代）](https://github.com/CHENSISISI/NOTE/issues/38)
++ [17. 列举获取用户需求的方法并简述其应用的局限性（欢聚时代）](https://github.com/CHENSISISI/NOTE/issues/37)
++ [16. 视频网站会员充值价格分析](https://github.com/CHENSISISI/NOTE/issues/34)
++ [15. 设计收入分成规则？](https://github.com/CHENSISISI/NOTE/issues/32)
++ [14. 搭建一个后台数据监控系统，检测用户和内容状态，为运营提供数据支持，要考虑的的逻辑有哪些？（字节跳动） ](https://github.com/CHENSISISI/NOTE/issues/31)
++ [13. 为什么微信朋友圈不能在分享推文，音乐，视频的同时不能发图片？](https://github.com/CHENSISISI/NOTE/issues/30)
++ [12. 如何理解产品的长期价值和短期价值是什么？](https://github.com/CHENSISISI/NOTE/issues/29)
++ [11. 删除朋友圈评论后，是否应该通知对方“评论已被删”？](https://github.com/CHENSISISI/NOTE/issues/28)
++ [10. 功能太多是产品失败的核心原因吗？](https://github.com/CHENSISISI/NOTE/issues/27)
++ [9. uber eats（外卖）支持现金支付，那最后是如何进行结算的？](https://github.com/CHENSISISI/NOTE/issues/26)
++ [8. 2天时间，如何把手工艺品通过线上渠道卖给更多人？](https://github.com/CHENSISISI/NOTE/issues/24)
++ [7. 为什么活动的任务奖励需要用户点击领取，而不是自动发放？](https://github.com/CHENSISISI/NOTE/issues/23)
++ [6. Push，短信 观察分析](https://github.com/CHENSISISI/NOTE/issues/21)
++ [5. 公众号文章底部广告投放优化思考](https://github.com/CHENSISISI/NOTE/issues/5)
++ [4. 理解社区](https://github.com/CHENSISISI/NOTE/issues/4)
++ [3. 提升分享效果方面有什么经验吗？](https://github.com/CHENSISISI/NOTE/issues/3)
++ [2. 24岁下的用户，更喜欢看长图文，不乐意点头条文章？](https://github.com/CHENSISISI/NOTE/issues/2)
++ [1. feed流产品的算法序](https://github.com/CHENSISISI/NOTE/issues/1)
+
 ## 产品分析 系列
 
 + [微信读书 体验报告](https://github.com/CHENSISISI/NOTE/issues/12)
@@ -36,7 +62,7 @@
 + [《2020中国在线教育行业研究相关研报》学习 ](https://github.com/CHENSISISI/NOTE/issues/49)
 + [《2020上半年在线少儿英语行业研究报告》学习](https://github.com/CHENSISISI/NOTE/issues/49)
 
-## 文档总结 系列
+## 文档/总结 系列
 
 ## 生活相关 系列
 
