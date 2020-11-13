@@ -31,6 +31,11 @@
 
 ## 行业学习 系列 
 
++ [各大教育公司教育矩阵 ](https://github.com/CHENSISISI/NOTE/issues/51)
++ [2020财报记录](https://github.com/CHENSISISI/NOTE/issues/50)
++ [《2020中国在线教育行业研究相关研报》学习 ](https://github.com/CHENSISISI/NOTE/issues/49)
++ [《2020上半年在线少儿英语行业研究报告》学习](https://github.com/CHENSISISI/NOTE/issues/49)
+
 ## 文档总结 系列
 
 ## 生活相关 系列
