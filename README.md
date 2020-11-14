@@ -62,7 +62,13 @@
 + [《2020中国在线教育行业研究相关研报》学习 ](https://github.com/CHENSISISI/NOTE/issues/49)
 + [《2020上半年在线少儿英语行业研究报告》学习](https://github.com/CHENSISISI/NOTE/issues/49)
 
-## 文档/总结 系列
+## 文档 系列
+
++ [【行业标准总结】](https://github.com/CHENSISISI/NOTE/issues/36)
++ [PRD 通用模板](https://github.com/CHENSISISI/NOTE/issues/35)
++ [SQL 入门学习](https://github.com/CHENSISISI/NOTE/issues/18)
++ [竞品分析 & 产品分析 通用模版](https://github.com/CHENSISISI/NOTE/issues/11)
++ [粉丝心理研究报告 & 粉丝画像](https://github.com/CHENSISISI/NOTE/issues/7)
 
 ## 生活相关 系列
 
