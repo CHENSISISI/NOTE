@@ -66,4 +66,9 @@
 
 ## 生活相关 系列
 
++ [快乐和绝望之间反复横跳](https://github.com/CHENSISISI/NOTE/issues/19)
++ [【十三邀-项飙】日落的时候，思想升起 ](https://github.com/CHENSISISI/NOTE/issues/33)
++ [大西藏 -- 大攻略](https://github.com/CHENSISISI/NOTE/issues/44)
++ [泸沽湖 -- 实操攻略](https://github.com/CHENSISISI/NOTE/issues/45)
+
 
