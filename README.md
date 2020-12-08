@@ -4,8 +4,13 @@
 
 # 文章导览
 
+## 个人作品
+
++ [组件库 & 后台权限系统 原型合集](https://github.com/CHENSISISI/NOTE/issues/60) 
+
 ## 每日一答 系列
 
++ [26. 面试题整理](https://github.com/CHENSISISI/NOTE/issues/57)
 + [25. 老鼠毒药问题](https://github.com/CHENSISISI/NOTE/issues/55)
 + [24. 电商交易流程，怎么划分](https://github.com/CHENSISISI/NOTE/issues/54)
 + [23. 如果要做商业化的一个产品，需要考虑哪些？](https://github.com/CHENSISISI/NOTE/issues/53)
@@ -44,6 +49,7 @@
 + [途牛 体验日记](https://github.com/CHENSISISI/NOTE/issues/14)
 + [剪映 体验日记](https://github.com/CHENSISISI/NOTE/issues/13)
 + [美团VS滴滴登录注册 体验报告](https://github.com/CHENSISISI/NOTE/issues/6)
++ [记账App体验](https://github.com/CHENSISISI/NOTE/issues/59)
 
 ## 读书笔记 系列
 
@@ -54,9 +60,12 @@
 + [《深入浅出数据分析》](https://github.com/CHENSISISI/NOTE/issues/43)
 + [《深入浅出统计学》](https://github.com/CHENSISISI/NOTE/issues/47)
 + [《指数基金投资指南》](https://github.com/CHENSISISI/NOTE/issues/56)
++ [《内容算法》简要读书笔记](https://github.com/CHENSISISI/NOTE/issues/61)
++ [Push策略优化技巧](https://github.com/CHENSISISI/NOTE/issues/62)
 
 ## 行业学习 系列 
 
++ [猿辅导 -- 粗拆解](https://github.com/CHENSISISI/NOTE/issues/58)
 + [各大教育公司教育矩阵 ](https://github.com/CHENSISISI/NOTE/issues/51)
 + [2020财报记录](https://github.com/CHENSISISI/NOTE/issues/50)
 + [《2020中国在线教育行业研究相关研报》学习 ](https://github.com/CHENSISISI/NOTE/issues/49)
