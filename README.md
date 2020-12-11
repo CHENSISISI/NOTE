@@ -10,6 +10,7 @@
 
 ## 每日一答 系列
 
++ [27. 外包和ToB的差别](https://github.com/CHENSISISI/NOTE/issues/64)
 + [26. 面试题整理](https://github.com/CHENSISISI/NOTE/issues/57)
 + [25. 老鼠毒药问题](https://github.com/CHENSISISI/NOTE/issues/55)
 + [24. 电商交易流程，怎么划分](https://github.com/CHENSISISI/NOTE/issues/54)
@@ -73,7 +74,7 @@
 
 ## 文档 系列
 
-+ [【行业标准总结】](https://github.com/CHENSISISI/NOTE/issues/36)
++ [常用分析模型整理](https://github.com/CHENSISISI/NOTE/issues/63)
 + [PRD 通用模板](https://github.com/CHENSISISI/NOTE/issues/35)
 + [SQL 入门学习](https://github.com/CHENSISISI/NOTE/issues/18)
 + [竞品分析 & 产品分析 通用模版](https://github.com/CHENSISISI/NOTE/issues/11)
