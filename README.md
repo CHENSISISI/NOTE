@@ -8,6 +8,42 @@
 
 + [组件库 & 后台权限系统 原型合集](https://github.com/CHENSISISI/NOTE/issues/60) 
 
+## 产品分析 系列
+
++ [夜曲编程](https://github.com/CHENSISISI/NOTE/issues/66)
++ [微信读书 体验报告](https://github.com/CHENSISISI/NOTE/issues/12)
++ [vlive app（明星直播）分析报告](https://github.com/CHENSISISI/NOTE/issues/8)
++ [微博超话分析](https://github.com/CHENSISISI/NOTE/issues/9)
++ [公益类 & “薅羊毛养成类” 应用调研分析报告](https://github.com/CHENSISISI/NOTE/issues/10)
++ [“网赚“游戏应用调研分析报告](https://github.com/CHENSISISI/NOTE/issues/39)
++ [同程 体验日记](https://github.com/CHENSISISI/NOTE/issues/16)
++ [去哪儿 体验日记](https://github.com/CHENSISISI/NOTE/issues/15)
++ [途牛 体验日记](https://github.com/CHENSISISI/NOTE/issues/14)
++ [剪映 体验日记](https://github.com/CHENSISISI/NOTE/issues/13)
++ [美团VS滴滴登录注册 体验报告](https://github.com/CHENSISISI/NOTE/issues/6)
++ [记账App体验](https://github.com/CHENSISISI/NOTE/issues/59)
+
+## 行业学习 系列 
+
++ [猿辅导 -- 粗拆解](https://github.com/CHENSISISI/NOTE/issues/58)
++ [各大教育公司教育矩阵 ](https://github.com/CHENSISISI/NOTE/issues/51)
++ [2020财报记录](https://github.com/CHENSISISI/NOTE/issues/50)
++ [《2020中国在线教育行业研究相关研报》学习 ](https://github.com/CHENSISISI/NOTE/issues/49)
++ [《2020上半年在线少儿英语行业研究报告》学习](https://github.com/CHENSISISI/NOTE/issues/49)
+
+## 读书笔记 系列
+
++ [《游戏数据分析实战》简要读书笔记](https://github.com/CHENSISISI/NOTE/issues/67)
++ [《从零开始做运营》](https://github.com/CHENSISISI/NOTE/issues/20)
++ [《游戏运营高手进阶之路》](https://github.com/CHENSISISI/NOTE/issues/22)
++ [《决胜b端 产品经理升级之路》](https://github.com/CHENSISISI/NOTE/issues/25)
++ [《幕后产品》](https://github.com/CHENSISISI/NOTE/issues/42)
++ [《深入浅出数据分析》](https://github.com/CHENSISISI/NOTE/issues/43)
++ [《深入浅出统计学》](https://github.com/CHENSISISI/NOTE/issues/47)
++ [《指数基金投资指南》](https://github.com/CHENSISISI/NOTE/issues/56)
++ [《内容算法》简要读书笔记](https://github.com/CHENSISISI/NOTE/issues/61)
++ [Push策略优化技巧](https://github.com/CHENSISISI/NOTE/issues/62)
+
 ## 每日一答 系列
 
 + [27. 外包和ToB的差别](https://github.com/CHENSISISI/NOTE/issues/64)
@@ -37,42 +73,6 @@
 + [3. 提升分享效果方面有什么经验吗？](https://github.com/CHENSISISI/NOTE/issues/3)
 + [2. 24岁下的用户，更喜欢看长图文，不乐意点头条文章？](https://github.com/CHENSISISI/NOTE/issues/2)
 + [1. feed流产品的算法序](https://github.com/CHENSISISI/NOTE/issues/1)
-
-## 产品分析 系列
-
-+ [夜曲编程](https://github.com/CHENSISISI/NOTE/issues/66)
-+ [微信读书 体验报告](https://github.com/CHENSISISI/NOTE/issues/12)
-+ [vlive app（明星直播）分析报告](https://github.com/CHENSISISI/NOTE/issues/8)
-+ [微博超话分析](https://github.com/CHENSISISI/NOTE/issues/9)
-+ [公益类 & “薅羊毛养成类” 应用调研分析报告](https://github.com/CHENSISISI/NOTE/issues/10)
-+ [“网赚“游戏应用调研分析报告](https://github.com/CHENSISISI/NOTE/issues/39)
-+ [同程 体验日记](https://github.com/CHENSISISI/NOTE/issues/16)
-+ [去哪儿 体验日记](https://github.com/CHENSISISI/NOTE/issues/15)
-+ [途牛 体验日记](https://github.com/CHENSISISI/NOTE/issues/14)
-+ [剪映 体验日记](https://github.com/CHENSISISI/NOTE/issues/13)
-+ [美团VS滴滴登录注册 体验报告](https://github.com/CHENSISISI/NOTE/issues/6)
-+ [记账App体验](https://github.com/CHENSISISI/NOTE/issues/59)
-
-## 读书笔记 系列
-
-+ [《游戏数据分析实战》简要读书笔记](https://github.com/CHENSISISI/NOTE/issues/67)
-+ [《从零开始做运营》](https://github.com/CHENSISISI/NOTE/issues/20)
-+ [《游戏运营高手进阶之路》](https://github.com/CHENSISISI/NOTE/issues/22)
-+ [《决胜b端 产品经理升级之路》](https://github.com/CHENSISISI/NOTE/issues/25)
-+ [《幕后产品》](https://github.com/CHENSISISI/NOTE/issues/42)
-+ [《深入浅出数据分析》](https://github.com/CHENSISISI/NOTE/issues/43)
-+ [《深入浅出统计学》](https://github.com/CHENSISISI/NOTE/issues/47)
-+ [《指数基金投资指南》](https://github.com/CHENSISISI/NOTE/issues/56)
-+ [《内容算法》简要读书笔记](https://github.com/CHENSISISI/NOTE/issues/61)
-+ [Push策略优化技巧](https://github.com/CHENSISISI/NOTE/issues/62)
-
-## 行业学习 系列 
-
-+ [猿辅导 -- 粗拆解](https://github.com/CHENSISISI/NOTE/issues/58)
-+ [各大教育公司教育矩阵 ](https://github.com/CHENSISISI/NOTE/issues/51)
-+ [2020财报记录](https://github.com/CHENSISISI/NOTE/issues/50)
-+ [《2020中国在线教育行业研究相关研报》学习 ](https://github.com/CHENSISISI/NOTE/issues/49)
-+ [《2020上半年在线少儿英语行业研究报告》学习](https://github.com/CHENSISISI/NOTE/issues/49)
 
 ## 文档 系列
 
