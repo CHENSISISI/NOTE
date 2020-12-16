@@ -40,6 +40,7 @@
 
 ## 产品分析 系列
 
++ [夜曲编程](https://github.com/CHENSISISI/NOTE/issues/66)
 + [微信读书 体验报告](https://github.com/CHENSISISI/NOTE/issues/12)
 + [vlive app（明星直播）分析报告](https://github.com/CHENSISISI/NOTE/issues/8)
 + [微博超话分析](https://github.com/CHENSISISI/NOTE/issues/9)
@@ -54,6 +55,7 @@
 
 ## 读书笔记 系列
 
++ [《游戏数据分析实战》简要读书笔记](https://github.com/CHENSISISI/NOTE/issues/67)
 + [《从零开始做运营》](https://github.com/CHENSISISI/NOTE/issues/20)
 + [《游戏运营高手进阶之路》](https://github.com/CHENSISISI/NOTE/issues/22)
 + [《决胜b端 产品经理升级之路》](https://github.com/CHENSISISI/NOTE/issues/25)
@@ -82,6 +84,7 @@
 
 ## 生活相关 系列
 
++ [礼成小吃 -- 小吃集市 伟大的商业计划书](https://github.com/CHENSISISI/NOTE/issues/65)
 + [快乐和绝望之间反复横跳](https://github.com/CHENSISISI/NOTE/issues/19)
 + [【十三邀-项飙】日落的时候，思想升起 ](https://github.com/CHENSISISI/NOTE/issues/33)
 + [大西藏 -- 大攻略](https://github.com/CHENSISISI/NOTE/issues/44)
