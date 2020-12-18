@@ -59,7 +59,7 @@
 + [17. 列举获取用户需求的方法并简述其应用的局限性（欢聚时代）](https://github.com/CHENSISISI/NOTE/issues/37)
 + [16. 视频网站会员充值价格分析](https://github.com/CHENSISISI/NOTE/issues/34)
 + [15. 设计收入分成规则？](https://github.com/CHENSISISI/NOTE/issues/32)
-+ [14. 搭建一个后台数据监控系统，检测用户和内容状态，为运营提供数据支持，要考虑的的逻辑有哪些？（字节跳动） ](https://github.com/CHENSISISI/NOTE/issues/31)
++ [14. 搭建一个后台数据监控系统，检测用户和内容状态，为运营提供数据支持，要考虑的的逻辑有哪些？（字节） ](https://github.com/CHENSISISI/NOTE/issues/31)
 + [13. 为什么微信朋友圈不能在分享推文，音乐，视频的同时不能发图片？](https://github.com/CHENSISISI/NOTE/issues/30)
 + [12. 如何理解产品的长期价值和短期价值是什么？](https://github.com/CHENSISISI/NOTE/issues/29)
 + [11. 删除朋友圈评论后，是否应该通知对方“评论已被删”？](https://github.com/CHENSISISI/NOTE/issues/28)
