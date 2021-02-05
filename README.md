@@ -43,6 +43,8 @@
 + [《指数基金投资指南》](https://github.com/CHENSISISI/NOTE/issues/56)
 + [《内容算法》简要读书笔记](https://github.com/CHENSISISI/NOTE/issues/61)
 + [Push策略优化技巧](https://github.com/CHENSISISI/NOTE/issues/62)
++ [教学组织形式 -- 《教育知识与能力（中学）第十四章》学习](https://github.com/CHENSISISI/NOTE/issues/69)
++ [认知发展阶段理论 -- 《教育知识与能力（中学）第二十章》学习](https://github.com/CHENSISISI/NOTE/issues/70)
 
 ## 每日一答 系列
 
