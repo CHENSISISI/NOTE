@@ -4,6 +4,10 @@
 
 # 文章导览
 
+## 万里长城之开放平台
+
++ [产品经理可以做什么？ ](https://github.com/CHENSISISI/NOTE/issues/73)
+
 ## 个人作品
 
 + [组件库 & 后台权限系统 原型合集](https://github.com/CHENSISISI/NOTE/issues/60) 
