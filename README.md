@@ -19,14 +19,14 @@
 + [微信读书 体验报告](https://github.com/CHENSISISI/NOTE/issues/12)
 + [vlive app（明星直播）分析报告](https://github.com/CHENSISISI/NOTE/issues/8)
 + [微博超话 体验报告](https://github.com/CHENSISISI/NOTE/issues/9)
-+ [公益类 & “薅羊毛养成类” 应用调研分析报告](https://github.com/CHENSISISI/NOTE/issues/10)
-+ [“网赚“游戏应用调研分析报告](https://github.com/CHENSISISI/NOTE/issues/39)
++ [公益类 & “薅羊毛养成类” 应用 体验报告](https://github.com/CHENSISISI/NOTE/issues/10)
++ [“网赚“游戏应用 体验报告](https://github.com/CHENSISISI/NOTE/issues/39)
 + [同程 体验日记](https://github.com/CHENSISISI/NOTE/issues/16)
 + [去哪儿 体验日记](https://github.com/CHENSISISI/NOTE/issues/15)
 + [途牛 体验日记](https://github.com/CHENSISISI/NOTE/issues/14)
 + [剪映 体验日记](https://github.com/CHENSISISI/NOTE/issues/13)
 + [美团VS滴滴登录注册 体验报告](https://github.com/CHENSISISI/NOTE/issues/6)
-+ [记账App体验](https://github.com/CHENSISISI/NOTE/issues/59)
++ [记账App 体验报告](https://github.com/CHENSISISI/NOTE/issues/59)
 
 ## 行业学习 系列 
 
