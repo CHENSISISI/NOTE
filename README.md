@@ -15,10 +15,10 @@
 ## 产品分析 系列
 
 + [小鹅通 & 有赞 & 淘宝千牛 & 拼多多【素材中心】竞品分析](https://github.com/CHENSISISI/NOTE/issues/72)
-+ [夜曲编程](https://github.com/CHENSISISI/NOTE/issues/66)
++ [夜曲编程 体验报告](https://github.com/CHENSISISI/NOTE/issues/66)
 + [微信读书 体验报告](https://github.com/CHENSISISI/NOTE/issues/12)
 + [vlive app（明星直播）分析报告](https://github.com/CHENSISISI/NOTE/issues/8)
-+ [微博超话分析](https://github.com/CHENSISISI/NOTE/issues/9)
++ [微博超话 体验报告](https://github.com/CHENSISISI/NOTE/issues/9)
 + [公益类 & “薅羊毛养成类” 应用调研分析报告](https://github.com/CHENSISISI/NOTE/issues/10)
 + [“网赚“游戏应用调研分析报告](https://github.com/CHENSISISI/NOTE/issues/39)
 + [同程 体验日记](https://github.com/CHENSISISI/NOTE/issues/16)
