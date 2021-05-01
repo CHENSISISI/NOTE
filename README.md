@@ -39,6 +39,7 @@
 
 ## 读书笔记 系列
 
++ [俞军产品方法论](https://github.com/CHENSISISI/NOTE/issues/76)
 + [《游戏数据分析实战》简要读书笔记](https://github.com/CHENSISISI/NOTE/issues/67)
 + [《从零开始做运营》](https://github.com/CHENSISISI/NOTE/issues/20)
 + [《游戏运营高手进阶之路》](https://github.com/CHENSISISI/NOTE/issues/22)
