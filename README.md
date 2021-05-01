@@ -55,6 +55,7 @@
 
 ## 每日一答 系列
 
++ [28. 网红带货降低了什么交易成本](https://github.com/CHENSISISI/NOTE/issues/77)
 + [27. 外包和ToB的差别](https://github.com/CHENSISISI/NOTE/issues/64)
 + [26. 面试题整理](https://github.com/CHENSISISI/NOTE/issues/57)
 + [25. 老鼠毒药问题](https://github.com/CHENSISISI/NOTE/issues/55)
