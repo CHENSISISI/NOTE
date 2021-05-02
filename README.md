@@ -28,10 +28,10 @@
 ## 行业学习 系列 
 
 + [猿辅导 -- 粗拆解](https://github.com/CHENSISISI/NOTE/issues/58)
-+ [各大教育公司教育矩阵 ](https://github.com/CHENSISISI/NOTE/issues/51)
-+ [2020财报记录](https://github.com/CHENSISISI/NOTE/issues/50)
-+ [《2020中国在线教育行业研究相关研报》学习 ](https://github.com/CHENSISISI/NOTE/issues/49)
-+ [《2020上半年在线少儿英语行业研究报告》学习](https://github.com/CHENSISISI/NOTE/issues/49)
++ [各大教育公司教育矩阵](https://github.com/CHENSISISI/NOTE/issues/51)
++ [2020 教育财报记录](https://github.com/CHENSISISI/NOTE/issues/50)
++ [《2020 中国在线教育行业研究相关研报》学习 ](https://github.com/CHENSISISI/NOTE/issues/49)
++ [《2020 上半年在线少儿英语行业研究报告》学习](https://github.com/CHENSISISI/NOTE/issues/49)
 
 ## 读书笔记 系列
 
