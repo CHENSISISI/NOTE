@@ -9,10 +9,6 @@
 + [开放平台 - 产品经理可以做什么？ ](https://github.com/CHENSISISI/NOTE/issues/73)
 + [裁剪工具交互逻辑思考](https://github.com/CHENSISISI/NOTE/issues/75)
 
-## 个人作品
-
-+ [组件库 & 后台权限系统 原型合集](https://github.com/CHENSISISI/NOTE/issues/60) 
-
 ## 产品分析 系列
 
 + [小鹅通 & 有赞 & 淘宝千牛 & 拼多多【素材中心】竞品分析](https://github.com/CHENSISISI/NOTE/issues/72)
@@ -39,7 +35,7 @@
 
 ## 读书笔记 系列
 
-+ [俞军产品方法论](https://github.com/CHENSISISI/NOTE/issues/76)
++ [《俞军产品方法论》](https://github.com/CHENSISISI/NOTE/issues/76)
 + [《游戏数据分析实战》简要读书笔记](https://github.com/CHENSISISI/NOTE/issues/67)
 + [《从零开始做运营》](https://github.com/CHENSISISI/NOTE/issues/20)
 + [《游戏运营高手进阶之路》](https://github.com/CHENSISISI/NOTE/issues/22)
@@ -99,5 +95,9 @@
 + [【十三邀-项飙】日落的时候，思想升起 ](https://github.com/CHENSISISI/NOTE/issues/33)
 + [大西藏 -- 大攻略](https://github.com/CHENSISISI/NOTE/issues/44)
 + [泸沽湖 -- 实操攻略](https://github.com/CHENSISISI/NOTE/issues/45)
+
+## 其他
+
++ [组件库 & 后台权限系统 原型合集](https://github.com/CHENSISISI/NOTE/issues/60) 
 
 
