@@ -6,6 +6,7 @@
 
 ## 万里长城之自己的脑袋
 
++ [脑子里的奇奇怪怪](https://github.com/CHENSISISI/NOTE/issues/74)
 + [开放平台 - 产品经理可以做什么？ ](https://github.com/CHENSISISI/NOTE/issues/73)
 + [裁剪工具交互逻辑思考](https://github.com/CHENSISISI/NOTE/issues/75)
 
