@@ -4,12 +4,6 @@
 
 # 文章导览
 
-## 万里长城之自己的脑袋
-
-+ [脑子里的奇奇怪怪](https://github.com/CHENSISISI/NOTE/issues/74)
-+ [开放平台 - 产品经理可以做什么？ ](https://github.com/CHENSISISI/NOTE/issues/73)
-+ [裁剪工具交互逻辑思考](https://github.com/CHENSISISI/NOTE/issues/75)
-
 ## 产品分析 系列
 
 + [小鹅通 & 有赞 & 淘宝千牛 & 拼多多【素材中心】竞品分析](https://github.com/CHENSISISI/NOTE/issues/72)
@@ -88,6 +82,12 @@
 + [SQL 入门学习](https://github.com/CHENSISISI/NOTE/issues/18)
 + [竞品分析 & 产品分析 通用模版](https://github.com/CHENSISISI/NOTE/issues/11)
 + [粉丝心理研究报告 & 粉丝画像](https://github.com/CHENSISISI/NOTE/issues/7)
+
+## 偶尔发散
+
++ [脑子里的奇奇怪怪](https://github.com/CHENSISISI/NOTE/issues/74)
++ [开放平台 - 产品经理可以做什么？ ](https://github.com/CHENSISISI/NOTE/issues/73)
++ [裁剪工具交互逻辑思考](https://github.com/CHENSISISI/NOTE/issues/75)
 
 ## 生活相关 系列
 
