@@ -19,6 +19,7 @@
 + [剪映 体验日记](https://github.com/CHENSISISI/NOTE/issues/13)
 + [美团VS滴滴登录注册 体验报告](https://github.com/CHENSISISI/NOTE/issues/6)
 + [记账App 体验报告](https://github.com/CHENSISISI/NOTE/issues/59)
++ [粉丝心理研究报告 & 粉丝画像](https://github.com/CHENSISISI/NOTE/issues/7)
 
 ## 行业学习 系列 
 
@@ -30,6 +31,7 @@
 
 ## 读书笔记 系列
 
++ [《王慧文清华产品管理课》](https://github.com/CHENSISISI/NOTE/issues/77)
 + [《微信背后的产品观》](https://github.com/CHENSISISI/NOTE/issues/78)
 + [《俞军产品方法论》](https://github.com/CHENSISISI/NOTE/issues/76)
 + [《游戏数据分析实战》简要读书笔记](https://github.com/CHENSISISI/NOTE/issues/67)
@@ -81,7 +83,6 @@
 + [PRD 通用模板](https://github.com/CHENSISISI/NOTE/issues/35)
 + [SQL 入门学习](https://github.com/CHENSISISI/NOTE/issues/18)
 + [竞品分析 & 产品分析 通用模版](https://github.com/CHENSISISI/NOTE/issues/11)
-+ [粉丝心理研究报告 & 粉丝画像](https://github.com/CHENSISISI/NOTE/issues/7)
 
 ## 偶尔发散
 
@@ -96,9 +97,4 @@
 + [【十三邀-项飙】日落的时候，思想升起 ](https://github.com/CHENSISISI/NOTE/issues/33)
 + [大西藏 -- 大攻略](https://github.com/CHENSISISI/NOTE/issues/44)
 + [泸沽湖 -- 实操攻略](https://github.com/CHENSISISI/NOTE/issues/45)
-
-## 其他
-
-+ [组件库 & 后台权限系统 原型合集](https://github.com/CHENSISISI/NOTE/issues/60) 
-
 
