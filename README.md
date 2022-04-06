@@ -21,14 +21,6 @@
 + [记账App 体验报告](https://github.com/CHENSISISI/NOTE/issues/59)
 + [粉丝心理研究报告 & 粉丝画像](https://github.com/CHENSISISI/NOTE/issues/7)
 
-## 行业学习 系列 
-
-+ [猿辅导 -- 粗拆解](https://github.com/CHENSISISI/NOTE/issues/58)
-+ [各大教育公司教育矩阵](https://github.com/CHENSISISI/NOTE/issues/51)
-+ [2020 教育财报记录](https://github.com/CHENSISISI/NOTE/issues/50)
-+ [《2020 中国在线教育行业研究相关研报》学习 ](https://github.com/CHENSISISI/NOTE/issues/49)
-+ [《2020 上半年在线少儿英语行业研究报告》学习](https://github.com/CHENSISISI/NOTE/issues/49)
-
 ## 读书笔记 系列
 
 + [《王慧文清华产品管理课》](https://github.com/CHENSISISI/NOTE/issues/77)
@@ -47,8 +39,9 @@
 + [教学组织形式 -- 《教育知识与能力（中学）第十四章》学习](https://github.com/CHENSISISI/NOTE/issues/69)
 + [认知发展阶段理论 -- 《教育知识与能力（中学）第二十章》学习](https://github.com/CHENSISISI/NOTE/issues/70)
 
-## 每日一答 系列
+## 发散思考
 
++ [28. 裁剪工具交互逻辑思考](https://github.com/CHENSISISI/NOTE/issues/75)
 + [27. 外包和ToB的差别](https://github.com/CHENSISISI/NOTE/issues/64)
 + [26. 面试题整理](https://github.com/CHENSISISI/NOTE/issues/57)
 + [25. 老鼠毒药问题](https://github.com/CHENSISISI/NOTE/issues/55)
@@ -77,24 +70,25 @@
 + [2. 24岁下的用户，更喜欢看长图文，不乐意点头条文章？](https://github.com/CHENSISISI/NOTE/issues/2)
 + [1. feed流产品的算法序](https://github.com/CHENSISISI/NOTE/issues/1)
 
+## 行业学习 系列 
+
++ [猿辅导 -- 粗拆解](https://github.com/CHENSISISI/NOTE/issues/58)
++ [各大教育公司教育矩阵](https://github.com/CHENSISISI/NOTE/issues/51)
++ [2020 教育财报记录](https://github.com/CHENSISISI/NOTE/issues/50)
++ [《2020 中国在线教育行业研究相关研报》学习 ](https://github.com/CHENSISISI/NOTE/issues/49)
++ [《2020 上半年在线少儿英语行业研究报告》学习](https://github.com/CHENSISISI/NOTE/issues/49)
+
 ## 文档 系列
 
 + [常用分析模型整理](https://github.com/CHENSISISI/NOTE/issues/63)
 + [PRD 通用模板](https://github.com/CHENSISISI/NOTE/issues/35)
-+ [SQL 入门学习](https://github.com/CHENSISISI/NOTE/issues/18)
 + [竞品分析 & 产品分析 通用模版](https://github.com/CHENSISISI/NOTE/issues/11)
-
-## 偶尔发散
-
-+ [脑子里的奇奇怪怪](https://github.com/CHENSISISI/NOTE/issues/74)
-+ [开放平台 - 产品经理可以做什么？ ](https://github.com/CHENSISISI/NOTE/issues/73)
-+ [裁剪工具交互逻辑思考](https://github.com/CHENSISISI/NOTE/issues/75)
 
 ## 生活相关 系列
 
-+ [礼成小吃 -- 小吃集市 伟大的商业计划书](https://github.com/CHENSISISI/NOTE/issues/65)
-+ [快乐和绝望之间反复横跳](https://github.com/CHENSISISI/NOTE/issues/19)
++ [快乐和绝望之间反复横跳😝--入职100教育](https://github.com/CHENSISISI/NOTE/issues/19)
 + [【十三邀-项飙】日落的时候，思想升起 ](https://github.com/CHENSISISI/NOTE/issues/33)
 + [大西藏 -- 大攻略](https://github.com/CHENSISISI/NOTE/issues/44)
 + [泸沽湖 -- 实操攻略](https://github.com/CHENSISISI/NOTE/issues/45)
++ + [礼成小吃 -- 小吃集市 伟大的商业计划书](https://github.com/CHENSISISI/NOTE/issues/65)
 
