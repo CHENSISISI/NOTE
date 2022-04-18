@@ -23,6 +23,7 @@
 
 ## 读书笔记 系列
 
++ [《重来》读书笔记](https://github.com/CHENSISISI/NOTE/issues/73)
 + [《王慧文清华产品管理课》](https://github.com/CHENSISISI/NOTE/issues/77)
 + [《微信背后的产品观》](https://github.com/CHENSISISI/NOTE/issues/78)
 + [《俞军产品方法论》](https://github.com/CHENSISISI/NOTE/issues/76)
