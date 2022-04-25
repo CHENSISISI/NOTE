@@ -42,6 +42,7 @@
 
 ## 发散思考
 
++ [29. SaaS公司典型组织架构及职责划分](https://github.com/CHENSISISI/NOTE/issues/18)
 + [28. 裁剪工具交互逻辑思考](https://github.com/CHENSISISI/NOTE/issues/75)
 + [27. 外包和ToB的差别](https://github.com/CHENSISISI/NOTE/issues/64)
 + [26. 面试题整理](https://github.com/CHENSISISI/NOTE/issues/57)
